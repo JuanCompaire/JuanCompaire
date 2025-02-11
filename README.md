@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on KPMG<br>⚡ I'm Back-End Developer
+🔭 I’m currently searching for a Developer Job<br>⚡ I'm Full Stack Developer
 
 
 ## 🌐 Socials:
