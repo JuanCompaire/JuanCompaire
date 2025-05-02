@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently searching for a Developer Job<br>⚡ I'm Full Stack Developer
+🔭 I’m currently working for Deloitte <br>⚡ I'm Back-End Developer
 
 
 ## 🌐 Socials:
